@@ -1,0 +1,17 @@
+﻿  Main.cpp
+C:\Users\shane\source\repos\Week 7 Final Project\Week 7 Final Project\Main.cpp(18,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\shane\source\repos\Week 7 Final Project\Week 7 Final Project\Main.cpp(46,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\shane\source\repos\Week 7 Final Project\Week 7 Final Project\Main.cpp(178,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\shane\source\repos\Week 7 Final Project\Week 7 Final Project\Main.cpp(178,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\shane\source\repos\Week 7 Final Project\Week 7 Final Project\Main.cpp(191,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\shane\source\repos\Week 7 Final Project\Week 7 Final Project\Main.cpp(191,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\shane\source\repos\Week 7 Final Project\Week 7 Final Project\Main.cpp(302,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shane\source\repos\Week 7 Final Project\Week 7 Final Project\Main.cpp(303,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shane\source\repos\Week 7 Final Project\Week 7 Final Project\Main.cpp(306,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shane\source\repos\Week 7 Final Project\Week 7 Final Project\Main.cpp(307,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shane\source\repos\Week 7 Final Project\Week 7 Final Project\Main.cpp(332,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shane\source\repos\Week 7 Final Project\Week 7 Final Project\Main.cpp(333,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shane\source\repos\Week 7 Final Project\Week 7 Final Project\Main.cpp(340,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shane\source\repos\Week 7 Final Project\Week 7 Final Project\Main.cpp(341,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shane\source\repos\Week 7 Final Project\Week 7 Final Project\Main.cpp(381,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Week 7 Final Project.vcxproj -> C:\Users\shane\source\repos\Week 7 Final Project\Debug\Week 7 Final Project.exe
